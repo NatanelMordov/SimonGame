@@ -36,8 +36,6 @@ The Simon Game is a classic electronic memory game that tests your ability to re
 - A challenging memory exercise.
 - Sound feedback for each button press.
 - A score indicator to track your progress.
-- A "Strict Mode" option that restarts the game upon mistakes.
-- A "Start" button to initiate the game.
 - Colorful buttons to interact with.
 
 ## Installation
@@ -55,7 +53,7 @@ $ open index.html
 1. Clone this repository to your local machine.
 
 ```bash
-$ git clone https://github.com/yourusername/simon-game.git
+$ git clone https://github.com/natanelmordov/simon-game.git
 $ cd simon-game
 ```
 
