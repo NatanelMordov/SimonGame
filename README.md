@@ -1,5 +1,4 @@
 # SimonGame
-# Simon Game Readme
 
 ## Table of Contents
 
